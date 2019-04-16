@@ -1,10 +1,20 @@
+# Repository moved
+https://github.com/wtf-fivem-mods
+
+**These resources:**
+- https://github.com/wtf-fivem-mods/wtf_ev
+- https://github.com/wtf-fivem-mods/wtf_teslax
+- https://github.com/wtf-fivem-mods/wtf_tesla_supercharger
+
+----
+
 # wtf-fivem-ev-tesla
 
 FiveM Electric Vehicle / Tesla Resources
 
 ## Caveats
 
-These resources were created for demonstration purposes. Some features are basic, like `demogarages`, and all scripts are client side.
+These resources were created for demonstration purposes. Some features are basic, like `garagedemo`, and all scripts are client side.
 
 In the future these may be integrated into frameworks and/or include their own server side/persistence logic.
 
